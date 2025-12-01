@@ -16,14 +16,6 @@ def tl():
 def tr():
      agent.turn(RIGHT)
 
-player.on_chat("come",teleport)
-player.on_chat("fw",fw)
-player.on_chat("bk",bk)
-player.on_chat("down",down)
-player.on_chat("tl",tl)
-player.on_chat("tr",tr)
-player.on_chat("up",up)
-
 def obby1():
     agent.move(FORWARD,4)
     agent.move(LEFT,4)
