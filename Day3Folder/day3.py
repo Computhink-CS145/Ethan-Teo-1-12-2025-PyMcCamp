@@ -42,17 +42,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
-import random
+# import random
 # for count in range(10):
-#     a=random.randint(10,100)
-#     print(a)
+#      a=random.randint(10,100)
+#      print(a)
 ########################################################################
 # Task 8:
-num1=random.randint(10,1000)
-num2=random.randint(10,1000)
-sum = num1 + num2
-result = int
-input("num1 + num2")
+# num1=random.randint(10,1000)
+# num2=random.randint(10,1000)
+# sum = num1 + num2
+# result = int
+# input("num1 + num2")
 
 
 ########################################################################
